@@ -52,8 +52,8 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 GitHub: [Your GitHub Profile Link]
-- 📧 Email: [your-email@example.com]
+- 💼 GitHub: [https://github.com/shivammmmm]
+- 📧 Email: [Shivampa345@gmail.com]
 
 ---
 
