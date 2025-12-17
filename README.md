@@ -43,14 +43,6 @@
 
 ---
 
-## 📈 Currently Learning
-- Advanced Next.js (App Router, SSR, performance)
-- Better backend architecture
-- Scalable database design
-- System-level thinking for large projects
-
----
-
 ## 📫 Connect With Me
 - 💼 GitHub: [https://github.com/shivammmmm]
 - 📧 Email: [Shivampa345@gmail.com]
